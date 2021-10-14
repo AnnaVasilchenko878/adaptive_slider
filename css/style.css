@@ -1,0 +1,28 @@
+.slider {
+    max-width: 80%;
+    border: 2px solid #000000;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.slider-line {
+    display: flex;
+    transition: all ease 1s;
+}
+
+.btn {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+/*
+.prev {
+    transform: translate(309px, -223px);
+}
+
+.next {
+    transform: translate(1165px, -223px);
+} */
